@@ -59,7 +59,7 @@ This project demonstrates the use of **Power BI for real-time business analytics
 
 ## 🔗 GitHub Link
 
-[View Project Repository](github.com/karthicknofficial1010)
+[View Project Repository](https://github.com/karthicknofficial1010/Revenue-Insights-in-Hospitality-Domain )
 
 ---
 
