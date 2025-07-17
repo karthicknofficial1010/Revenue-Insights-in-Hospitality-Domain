@@ -37,7 +37,7 @@ revenue-insights-hospitality/
 
 ## 📷 Dashboard Preview
 
-![Dashboard Sample](https://github.com/karthicknofficial1010/Revenue-Insights-in-Hospitality-Domain/blob/main/revenue%201.JPG?raw=true)
+![Dashboard Sample]( https://github.com/karthicknofficial1010/Revenue-Insights-in-Hospitality-Domain/blob/main/revenue%201.JPG?raw=true )
 
 ---
 
