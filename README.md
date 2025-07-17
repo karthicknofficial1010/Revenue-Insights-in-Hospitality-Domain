@@ -59,7 +59,7 @@ This project demonstrates the use of **Power BI for real-time business analytics
 
 ## 🔗 GitHub Link
 
-[View Project Repository](your-github-project-link-here)
+[View Project Repository](github.com/karthicknofficial1010)
 
 ---
 
