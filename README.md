@@ -12,7 +12,6 @@ This Power BI dashboard provides comprehensive insights into the performance of 
 - 🎯 Performance benchmarking of various hotels in Hyderabad  
 - 📅 Weekly and Monthly trend visualization for revenue and ratings  
 - 📊 Pie and bar charts to represent revenue breakdown and booking patterns
-
 ---
 
 ## 🛠 Tools Used
